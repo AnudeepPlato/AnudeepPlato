@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnudeepPlato
 - 👀 I’m interested in Learning Developement
 - 🌱 I’m currently learning Automation Testing
-- 💞️ I’m looking to collaborate on IOS development
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me anudeep@platoonline.com
 
 <!---
